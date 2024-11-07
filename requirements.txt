@@ -1,0 +1,8 @@
+jax
+jaxlib
+neural-tangents
+tensorflow  # for MNIST dataset
+matplotlib
+seaborn
+tqdm
+numpy 

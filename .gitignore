@@ -1,0 +1,6 @@
+ntk_jax/**
+runs/**
+ntk_jax/
+/ntk_jax/
+ntk_jax/*
+**/ntk
